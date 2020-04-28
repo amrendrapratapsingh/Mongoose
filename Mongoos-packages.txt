@@ -1,0 +1,7 @@
+******Mongoose*****
+
+
+
+1)npm install --save mongoose-unique-validator
+
+2)npm install --save bcrypt
